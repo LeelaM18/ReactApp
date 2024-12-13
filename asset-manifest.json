@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LeelaM18/ReactApp/static/css/main.0882a6dc.css",
+    "main.js": "/LeelaM18/ReactApp/static/js/main.617e1839.js",
+    "static/js/453.785134cd.chunk.js": "/LeelaM18/ReactApp/static/js/453.785134cd.chunk.js",
+    "index.html": "/LeelaM18/ReactApp/index.html",
+    "main.0882a6dc.css.map": "/LeelaM18/ReactApp/static/css/main.0882a6dc.css.map",
+    "main.617e1839.js.map": "/LeelaM18/ReactApp/static/js/main.617e1839.js.map",
+    "453.785134cd.chunk.js.map": "/LeelaM18/ReactApp/static/js/453.785134cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0882a6dc.css",
+    "static/js/main.617e1839.js"
+  ]
+}
